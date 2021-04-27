@@ -20,7 +20,7 @@
 
 [![UFStudio](https://img.shields.io/badge/UniversalFilmStudio-Channel-orange?style=for-the-badge&logo=telegram)](https://telegram.dog/UFStudio2)  
 ㅤㅤㅤㅤㅤㅤㅤ  
-[![UFStudio](https://img.shields.io/badge/Universal Film Studio-Support-red?style=flat&logo=telegram)](https://telegram.dog/lnc3f3r)  [![UFStudio](https://img.shields.io/badge/Universal Film Studio-Website-red?style=flat&logo=CodersRank)](https://telegram.dog/lnc3f3r)  
+[![UFStudio](https://img.shields.io/badge/UniversalFilmStudio-Support-red?style=flat&logo=telegram)](https://telegram.dog/lnc3f3r)  [![UFStudio](https://img.shields.io/badge/Universal Film Studio-Website-red?style=flat&logo=CodersRank)](https://telegram.dog/lnc3f3r)  
 ㅤㅤㅤㅤㅤㅤㅤ  
 [![MIT license](https://img.shields.io/badge/License-MIT-blue?style=flat)](https://github.com/jinspalakkattu/UFStudio/blob/main/LICENSE)  [![Open Source](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/jinspalakkattu/UFStudio)
 
