@@ -18,7 +18,7 @@
   </a>  
 </p>
 
-[![UFStudio](https://img.shields.io/badge/Universal Film Studio-Channel-orange?style=for-the-badge&logo=telegram)](https://telegram.dog/UFStudio2)  
+[![UFStudio](https://img.shields.io/badge/UniversalFilmStudio-Channel-orange?style=for-the-badge&logo=telegram)](https://telegram.dog/UFStudio2)  
 ㅤㅤㅤㅤㅤㅤㅤ  
 [![UFStudio](https://img.shields.io/badge/Universal Film Studio-Support-red?style=flat&logo=telegram)](https://telegram.dog/lnc3f3r)  [![UFStudio](https://img.shields.io/badge/Universal Film Studio-Website-red?style=flat&logo=CodersRank)](https://telegram.dog/lnc3f3r)  
 ㅤㅤㅤㅤㅤㅤㅤ  
