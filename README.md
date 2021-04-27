@@ -76,7 +76,7 @@ Thanks to [InfotelGroup](https://telegram.dog/InFoTelGroup) and [Erich Daniken](
 ### Deploy in your vps
 ```sh
 git clone https://github.com/jinspalakkattu/UFStudio
-cd ufsautofilterbot
+cd UFStudio
 pip3 install -r requirements.txt
 # <Create config.py appropriately>
 python3 main.py
